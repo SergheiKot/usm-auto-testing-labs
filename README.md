@@ -1,2 +1,3 @@
-# usm-auto-testing-labs
-#USM
+### Automation testing
+
+Каждая лабораторная - отдельная ветка
